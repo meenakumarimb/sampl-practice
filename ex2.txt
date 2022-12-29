@@ -5,3 +5,5 @@ pwd
 df -h
 new line added for pulling
 merging practice
+merging conflict resolve
+newwwwww
