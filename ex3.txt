@@ -1,0 +1,8 @@
+#!/bin/bash
+var1=mohan
+var2=953812345
+var3=Devops-Architect 
+echo " my name is :   " $var1
+echo " my number is : " $var2
+echo " I am also known as :  "$var3
+
