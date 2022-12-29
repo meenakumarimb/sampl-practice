@@ -3,3 +3,4 @@ echo " Hello "
 echo " Welcome to the shell script “ 
 pwd
 df -h
+new line added for pulling
